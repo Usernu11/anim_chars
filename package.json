@@ -1,0 +1,29 @@
+{
+  "name": "anim_chars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usernu11/anim_chars.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "jQuery",
+    "js-practice"
+  ],
+  "author": "Bohdan Lavrentiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usernu11/anim_chars/issues"
+  },
+  "homepage": "https://github.com/Usernu11",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
